@@ -82,7 +82,7 @@
         "nodebb-plugin-composer-default": "6.3.23",
         "nodebb-plugin-dbsearch": "4.0.7",
         "nodebb-plugin-emoji": "^3.0.0",
-        "nodebb-plugin-emoji-android": "2.0.0",
+        "nodebb-plugin-emoji-android": "2.0.5",
         "nodebb-plugin-markdown": "8.11.2",
         "nodebb-plugin-mentions": "2.7.4",
         "nodebb-plugin-soundpack-default": "1.0.0",
